@@ -1,3 +1,3 @@
 # senai-versoes-colaboracoes
 Repositório inicial
-Readme de exemplo
+Fazendo uma alteração no readme
